@@ -1,6 +1,11 @@
 # print("Hello World")
 
-Hello! My name is Simon, and I am currently a penultimate undergraduate student at CUHK. My major is Statistics, and I am also pursuing a minor in Computer Science. I am currently studying statistical computing and machine learning. I am self-learning DevOps using Python and AWS.
+Hello! My name is Simon, and I am currently a penultimate undergraduate student at CUHK.\
+My major is Statistics, and I am also pursuing a minor in Computer Science. 
+
+- Currently studying statistical computing and machine learning
+- Self-learning DevOps using Python and AWS
+- Je parle un petit peu français
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
