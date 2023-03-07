@@ -22,3 +22,4 @@ My major is Statistics, and I am also pursuing a minor in Computer Science.
 ![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=Jupyter)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=VMware&logoColor=yellow)
