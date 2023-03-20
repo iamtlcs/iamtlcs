@@ -27,4 +27,4 @@ My major is Statistics, and I am also pursuing a minor in Computer Science.
 ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=Yellow)
 
 ## Git Stat
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={iamtlcs}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtlcs&theme=blue-green)
