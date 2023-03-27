@@ -3,8 +3,8 @@
 Hello! My name is Simon, and I am currently a penultimate undergraduate student at CUHK.\
 My major is Statistics, and I am also pursuing a minor in Computer Science. 
 
-- Currently studying statistical computing and machine learning 📊
-- Self-learning DevOps using Python and AWS ⚙️
+- Currently studying statistical computing, machine learning and deep learning algorithm 📊
+- Self-learning DevOps using Python and hands-on AWS ⚙️
 - Je parle un petit peu français 🇫🇷
 
 ## Languages
@@ -25,6 +25,7 @@ My major is Statistics, and I am also pursuing a minor in Computer Science.
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=Yellow)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Git Stat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtlcs&theme=blue-green)
