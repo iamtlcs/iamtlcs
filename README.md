@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Simon!
 
-I'm a **Full Stack & DevOps Engineer** and recent Statistics graduate from **The Chinese University of Hong Kong**, with a strong foundation in scalable systems, cloud-native architecture, and AI integration. I specialize in building fast, secure, and maintainable platforms with a passion for automation and data-driven development.
+I'm a **Full Stack & DevOps Engineer** and I have graduated in Statistics from **The Chinese University of Hong Kong**, with a strong foundation in scalable systems, cloud-native architecture, and AI integration. I specialize in building fast, secure, and maintainable platforms with a passion for automation and data-driven development.
 
 - 💻 Delivered full-stack platforms used by 20,000+ users across global clients
 - ☁️ Architected cloud-native pipelines (AWS, Azure, GCP) for video + GenAI processing
@@ -8,7 +8,6 @@ I'm a **Full Stack & DevOps Engineer** and recent Statistics graduate from **The
 - 🏆 Algo Trading 1st Runner-Up — Sharpe Ratio 2.354, BTC strategy
 - 📈 Strong interests in statistical modeling, LLM pipelines, and infrastructure as code
 
----
 
 ## 🧠 Languages & Frameworks
 
@@ -20,7 +19,6 @@ I'm a **Full Stack & DevOps Engineer** and recent Statistics graduate from **The
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -32,24 +30,16 @@ I'm a **Full Stack & DevOps Engineer** and recent Statistics graduate from **The
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## 📚 Certifications
 
 - 🟧 **AWS Certified Solutions Architect – Associate** (2023)
 - 🟦 **Microsoft Certified: Azure Administrator Associate** (2024)
 - 🧠 **NVIDIA Accelerated Data Science Fundamentals**
-
----
-
+  
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/iamtlcs/)
 - 💼 [GitHub](https://github.com/iamtlcs)
 - 📬 simoncheung2002@gmail.com
-
----
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=iamtlcs&style=flat-square&color=blue)
