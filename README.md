@@ -44,21 +44,6 @@ I'm a **Full Stack & DevOps Engineer** and recent Statistics graduate from **The
 
 ---
 
-## 📈 GitHub Stats
-
-![Simon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamtlcs&show_icons=true&theme=blue-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtlcs&layout=compact&theme=blue-green)
-![GitHub Streak](https://streak-stats.demolab.com?user=iamtlcs&theme=blue-green)
-
----
-
-## 🏆 Highlight Project
-
-**💡 AI-Powered Interview Platform**
-> Built a scalable, microservice-based platform using AWS Step Functions, Lambda, and GenAI APIs (GPT, Gemini, DeepSeek) to analyze 100K+ videos. Reduced latency by 50% and automated cloud-native deployment pipelines with GitHub Actions.
-
----
-
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/iamtlcs/)
