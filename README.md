@@ -5,7 +5,7 @@ I'm a **Full Stack & DevOps Engineer** and I have graduated in Statistics from *
 - 💻 Delivered full-stack platforms used by 20,000+ users across global clients
 - ☁️ Architected cloud-native pipelines (AWS, Azure, GCP) for video + GenAI processing
 - 🚀 Certified in **AWS** & **Azure**, with hands-on experience in DevOps, Docker, Terraform
-- 🏆 Algo Trading 1st Runner-Up — Sharpe Ratio 2.354, BTC strategy
+- 🏆 Algo Trading 1st Runner-Up — BTC strategy
 - 📈 Strong interests in statistical modeling, LLM pipelines, and infrastructure as code
 
 
