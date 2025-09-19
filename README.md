@@ -1,12 +1,19 @@
 # 👋 Hello, I'm Simon!
 
-I'm a **Full Stack & DevOps Engineer** and I have graduated in Statistics from **The Chinese University of Hong Kong**, with a strong foundation in scalable systems, cloud-native architecture, and AI integration. I specialize in building fast, secure, and maintainable platforms with a passion for automation and data-driven development.
+\<a href="[https://linkedin.com/in/iamtles](https://www.google.com/search?q=https://linkedin.com/in/iamtles)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>\</a\>
+\<a href="mailto:simoncheung2002@gmail.com"\>\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"\>\</a\>
+\<a href="[https://iamtles-personal-website.vercel.app](https://www.google.com/search?q=https://iamtles-personal-website.vercel.app)"\>\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite)" alt="Portfolio"\>\</a\>
 
-- 💻 Delivered full-stack platforms used by 20,000+ users across global clients
-- ☁️ Architected cloud-native pipelines (AWS, Azure, GCP) for video + GenAI processing
-- 🚀 Certified in **AWS** & **Azure**, with hands-on experience in DevOps, Docker, Terraform
-- 🏆 Algo Trading 1st Runner-Up — BTC strategy
-- 📈 Strong interests in statistical modeling, LLM pipelines, and infrastructure as code
+[cite\_start]I'm a **Software Engineer specialising in Full Stack & DevOps** [cite: 4][cite\_start], and a recent graduate with a Bachelor of Science in Statistics from The Chinese University of Hong Kong[cite: 34, 35, 36].
+
+[cite\_start]I build scalable, cloud-native solutions with a focus on automation, AI integration, and robust infrastructure[cite: 7, 8]. [cite\_start]My experience spans architecting microservice platforms on AWS for Fortune 500 companies [cite: 7][cite\_start], engineering complex GenAI data pipelines across AWS, Azure, and Google Cloud [cite: 8][cite\_start], and developing full-stack applications serving over 30,000 users[cite: 9].
+
+### 🚀 My Core Competencies
+
+  * [cite\_start]**Cloud Architecture & DevOps:** I architect and deploy AWS-based microservice platforms, reducing operational costs by up to 72%[cite: 7]. [cite\_start]I automate infrastructure using Terraform, CloudFormation, and Ansible [cite: 11] [cite\_start]and build CI/CD pipelines with GitHub Actions, Argo CD, and Kubernetes to cut deployment times by 70%[cite: 10].
+  * [cite\_start]**AI & Data Engineering:** I engineer serverless, cloud-native pipelines with AWS Step Functions and Lambda to process over 100,000 videos [cite: 8][cite\_start], seamlessly integrating GenAI services like GPT, Gemini, and Llama[cite: 8]. [cite\_start]This has resulted in reducing data processing latency by 50%[cite: 18].
+  * [cite\_start]**Full Stack Development:** I deliver responsive, real-time applications using the MERN stack (React.js, Node.js, Express.js, MongoDB) [cite: 9, 27][cite\_start], REST APIs, and WebSockets to support over 30,000 users[cite: 9].
+  * [cite\_start]**Security & Compliance:** I have experience pioneering compliance frameworks aligned with SOC 2, ISO 27001, and GDPR[cite: 12]. [cite\_start]I am also a certified Junior Penetration Tester (eJPT)[cite: 23].
 
 
 ## 🧠 Languages & Frameworks
@@ -32,14 +39,19 @@ I'm a **Full Stack & DevOps Engineer** and I have graduated in Statistics from *
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## 📚 Certifications
+### 🏆 Certifications & Achievements
 
-- 🟧 **AWS Certified Solutions Architect – Associate** (2023)
-- 🟦 **Microsoft Certified: Azure Administrator Associate** (2024)
-- 🧠 **NVIDIA Accelerated Data Science Fundamentals**
+  * [cite\_start]**First Runner-Up**, Algo Trading Challenge 2023/24 [cite: 40, 43]
+  * [cite\_start]**Microsoft Certified**: Azure Administrator Associate (July 2024) [cite: 24, 29]
+  * [cite\_start]**AWS Certified**: Solutions Architect – Associate (November 2023) [cite: 25, 30]
+  * [cite\_start]**INE Security**: Junior Penetration Tester (eJPT) [cite: 23]
+  * [cite\_start]**NVIDIA**: Fundamentals of Accelerated Data Science (June 2022) [cite: 31]
   
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/iamtlcs/)
 - 💼 [GitHub](https://github.com/iamtlcs)
 - 📬 simoncheung2002@gmail.com
+
+
+
