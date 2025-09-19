@@ -4,7 +4,7 @@
 
 ---
 
-💡 I'm a **Software Engineer specialising in Full Stack & DevOps**, and a recent graduate with a **BSc in Statistics from CUHK**.
+💡 I'm a **Software Engineer specialising in Full Stack & DevOps**, and graduated with a **BSc in Statistics from CUHK**.
 I build **scalable, cloud-native solutions** with a focus on **automation, AI integration, and robust infrastructure**.
 
 * 🚀 Architected AWS microservice platforms for **Fortune 500 companies**
