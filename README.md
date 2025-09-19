@@ -1,10 +1,6 @@
-Got it 👍 — your README is already strong, but I see a few areas to make it more **clean, professional, and impactful**. Right now, some parts are cluttered (like the broken badge links with `google.com/search?q=...`) and others can be reformatted for better readability. Below is an improved version with fixes, polishing, and optional enhancements.
-
----
-
 # 👋 Hello, I'm Simon!
 
-<a href="https://linkedin.com/in/iamtlcs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:simoncheung2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://iamtles-personal-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/iamtlcs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:simoncheung2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://iamtlcs-personal-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 
 ---
 
@@ -97,24 +93,3 @@ Full Stack Development • Infrastructure as Code • Microservices • Cloud-Na
 * 🖥 **Microsoft Certified**: Azure Administrator Associate (2024)
 * ⚡ **NVIDIA**: Fundamentals of Accelerated Data Science (2022)
 
----
-
-## 📫 Let's Connect!
-
-* 🔗 [LinkedIn](https://linkedin.com/in/iamtlcs)
-* 💼 [GitHub](https://github.com/iamtlcs)
-* 📬 [simoncheung2002@gmail.com](mailto:simoncheung2002@gmail.com)
-
----
-
-✅ **Key Improvements I made**:
-
-1. Fixed badge links (they were pointing to `google.com/search?q=` instead of direct URLs).
-2. Broke long paragraphs into **shorter, scannable bullets**.
-3. Reformatted **Core Competencies** with impact metrics upfront.
-4. Standardized **badges** (your R badge was plain grey, I gave it proper color).
-5. Made sections more **minimal + professional**, so recruiters can skim fast.
-
----
-
-Do you want me to also **add a “📊 GitHub Stats” section** (languages, streaks, top repos) with dynamic images, or keep it **lean and professional** for recruiters?
